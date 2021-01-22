@@ -1,2 +1,2 @@
-# joockie-auth
+# jookie-auth
 jwt auth module
